@@ -1,6 +1,19 @@
 27 september
 
 ik heb een sutdent geholpen met grid zodat ze beter begrijpt wat het is en hoe je mobile first kan werken
+en ik heb een code en design review gedaan en issues ingeschoten
+<br>
+https://github.com/OFRqq/the-client-website/issues/4
+<br>
+https://github.com/kimnikitaschijf/the-client-website/issues/4
+<br>
+https://github.com/Clarice-COD/the-client-website/issues/4
+<br>
+
+https://github.com/irisvw/the-client-website/issues/6
+<br>
+https://github.com/OFRqq/the-client-website/issues/3
+
 
 
 7 oktober
@@ -17,5 +30,13 @@ ik heb feedback gegeven in portflow bij diverse studenten
 9 oktober 
 
 custom proporties en helpen css met grid en de cascade 
+
+https://github.com/Nyathene/the-client-website/issues/1 
+
+https://github.com/Clarice-COD/the-client-website/issues/12
+https://github.com/Clarice-COD/the-client-website/commit/aa7f9497284164a5b25a2b34f2beca41bcba0657
+uitleg grid
+
+
 
 21 oktober
