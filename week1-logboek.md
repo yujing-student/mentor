@@ -46,10 +46,12 @@ https://github.com/Nyathene/the-client-website/issues/1 <br>
 <hr>
 hier geef ik haar tips hoe ik haar kan helpen met het goed in elkaar zetten van de layout
 https://github.com/Clarice-COD/the-client-website/issues/12<br>
+
 ![image](https://github.com/user-attachments/assets/98befeeb-c640-4111-9669-68745b963720)
 
 
 bij deze commit heb ik je geholpen om de image in de container te krijgen
+
 https://github.com/Clarice-COD/the-client-website/commit/aa7f9497284164a5b25a2b34f2beca41bcba0657
 uitleg grid
 
