@@ -1,24 +1,23 @@
-27 september
+<section><h2>27 september</h2>
+<p>
 
-ik heb een student geholpen met grid zodat ze beter begrijpt wat het is en hoe je mobile first kan werken
+ik heb een student geholpen met grid zodat ze beter begrijpt wat het is en
+hoe je mobile first kan werken<br>
 en ik heb een code en design review gedaan en issues ingeschoten
-<br>
-https://github.com/OFRqq/the-client-website/issues/4
-<br>
-https://github.com/kimnikitaschijf/the-client-website/issues/4
-<br>
-https://github.com/Clarice-COD/the-client-website/issues/4
-<br>
 
-https://github.com/irisvw/the-client-website/issues/6
-<br>
-https://github.com/OFRqq/the-client-website/issues/3
+</p>
 
+<ul>
+<li><a href="https://github.com/OFRqq/the-client-website/issues/4">issue divs</a></li>
+<li><a href="https://github.com/kimnikitaschijf/the-client-website/issues/4">feedback desgin</a></li>
+<li><a href="https://github.com/OFRqq/the-client-website/issues/3">w3c validator</a></li>
+<li><a href="https://github.com/Clarice-COD/the-client-website/issues/4">gebruik een main in de body</a></li>
+</ul>
+</section>
 
+<section><h2>7 oktober </h2>
 
-7 oktober
-<br>
-
+<p>
 ik heb feedback gegeven in portflow bij diverse studenten<br>
 
 ![image](https://github.com/user-attachments/assets/f9a827a5-f999-4105-8ea3-0ef2e448da23)<br>
@@ -31,21 +30,28 @@ ik heb feedback gegeven in portflow bij diverse studenten<br>
 
 
 ![image](https://github.com/user-attachments/assets/71d2d9fc-4e0b-429e-8f85-4a3e54c17feb)<br>
-
+</p>
+</section>
 <hr>
-9 oktober <br>
 
+<section>
+<h2>9 oktober
+
+</h2>
 
 hier geef ik uitleg over custom proporties
 
 ![image](https://github.com/user-attachments/assets/d751a9d2-a320-440b-8938-e4df275e4c3e)
 
-https://github.com/Nyathene/the-client-website/issues/1 <br>
-
+<br>
+<a href="https://github.com/Nyathene/the-client-website/issues/1 ">uitleg custom proporties</a>
 
 <hr>
 hier geef ik haar tips hoe ik haar kan helpen met het goed in elkaar zetten van de layout
-https://github.com/Clarice-COD/the-client-website/issues/12<br>
+
+<a href="https://github.com/Clarice-COD/the-client-website/issues/12">link naar de issue
+</a>
+
 
 ![image](https://github.com/user-attachments/assets/98befeeb-c640-4111-9669-68745b963720)
 
@@ -55,6 +61,14 @@ bij deze commit heb ik je geholpen om de image in de container te krijgen
 https://github.com/Clarice-COD/the-client-website/commit/aa7f9497284164a5b25a2b34f2beca41bcba0657
 uitleg grid
 
+</section>
 
+
+<section>
+<h2>
 
 21 oktober
+
+</h2>
+</section>
+
