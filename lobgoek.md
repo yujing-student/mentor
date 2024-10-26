@@ -1,4 +1,6 @@
 <section><h2>27 september</h2>
+
+  <h3>issues inschieten</h3>
 <p>
 
 ik heb een student geholpen met grid zodat ze beter begrijpt wat het is en
@@ -39,6 +41,8 @@ ik heb feedback gegeven in portflow bij diverse studenten<br>
 
 </h2>
 
+<h3>studenten helpen die vastlopen</h3>
+
 hier geef ik uitleg over custom proporties
 
 ![image](https://github.com/user-attachments/assets/d751a9d2-a320-440b-8938-e4df275e4c3e)
@@ -64,11 +68,5 @@ uitleg grid
 </section>
 
 
-<section>
-<h2>
 
-21 oktober
-
-</h2>
-</section>
 
