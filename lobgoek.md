@@ -68,5 +68,19 @@ uitleg grid
 </section>
 
 
+<h2>
+15-11 november</h2>
+<p>
+ik heb issues ingeschoten 
+<ul>
+<li>
+<a href="https://github.com/Matthijs217/look-and-feel-styleguide/issues/8">issue</a>
 
+</li>
+</ul>
 
+https://github.com/kimnikitaschijf/look-and-feel-styleguide/issues/10
+https://github.com/Kitkatisvibing/look-and-feel-styleguide/issues/7
+
+https://github.com/Kitkatisvibing/look-and-feel-styleguide/issues/5
+</p>+
