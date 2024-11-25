@@ -83,9 +83,19 @@ https://github.com/kimnikitaschijf/look-and-feel-styleguide/issues/10
 https://github.com/Kitkatisvibing/look-and-feel-styleguide/issues/7
 
 https://github.com/Kitkatisvibing/look-and-feel-styleguide/issues/5
-</p>+
+
 
 
 github
 
 https://github.com/OFRqq/i-love-web/issues/1 
+
+
+<h2>
+25-11 november</h2>
+
+ik heb met mijn mentor studenten gekekn naar hun portflow 
+
+https://github.com/kimnikitaschijf/look-and-feel-corporate-identity/issues/30
+
+https://github.com/Clarice-COD/look-and-feel-corporate-identity/issues/5
