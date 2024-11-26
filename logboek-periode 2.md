@@ -4,20 +4,13 @@
 ik heb issues ingeschoten 
 <ul>
 <li><a href="https://github.com/Matthijs217/look-and-feel-styleguide/issues/8">issue :root</a></li>
-<li><a href="
-https://github.com/kimnikitaschijf/look-and-feel-styleguide/issues/10">issue !important</a></li>
+<li><a href="https://github.com/kimnikitaschijf/look-and-feel-styleguide/issues/10">issue !important</a></li>
 <li><a href="
 https://github.com/Kitkatisvibing/look-and-feel-styleguide/issues/7">issue cusotm proproties bovenaan </a></li>
 
 <li><a href="
 https://github.com/Kitkatisvibing/look-and-feel-styleguide/issues/5">issue dry code </a></li>
 </ul>
-
-
-
-github
-
-https://github.com/OFRqq/i-love-web/issues/1 
 
 <a href="https://github.com/OFRqq/i-love-web/issues/1 ">plan van aanpak herkansing OFRqq </a>
 
