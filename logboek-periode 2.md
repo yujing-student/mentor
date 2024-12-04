@@ -32,5 +32,23 @@ ik heb met mijn mentor studenten gekekn naar hun portflow hoe ze hun herkansing 
 </ul>
 
 
+<h2>
+4-12 november</h2>
 
+ik heb aan clarice vertelt hoe ze met eenn issue goede bewijslast in een issue zet waardoor direct goed te zien is wat ze gedaan heeft en welke methoden en technieken ze gebruikt 
+
+https://github.com/Clarice-COD/look-and-feel-corporate-identity/issues/13
+
+
+
+
+https://github.com/kimnikitaschijf/look-and-feel-corporate-identity/issues/30
+uitleg hoe ik bewijslast goed in portflow zet en hoe je het zou kunnen doen 
+
+ 
+
+uitleg over tilde teken
+https://github.com/kimnikitaschijf/look-and-feel-corporate-identity/issues/24 
+
+verder heb ik gekeken naar de gedragsindicatoren welke mijn mentorstudenten moeten herkansen en hoe ze dit kunnen aanpakken en wat ze nog missen
 
