@@ -52,3 +52,11 @@ https://github.com/kimnikitaschijf/look-and-feel-corporate-identity/issues/24
 
 verder heb ik gekeken naar de gedragsindicatoren welke mijn mentorstudenten moeten herkansen en hoe ze dit kunnen aanpakken en wat ze nog missen
 
+https://github.com/OFRqq/i-love-web/issues/1 ole 
+
+https://github.com/Clarice-COD/look-and-feel-corporate-identity/issues/5 clarice 
+
+https://github.com/kimnikitaschijf/look-and-feel-corporate-identity/issues/30 kim 
+
+
+
