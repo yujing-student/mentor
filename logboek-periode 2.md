@@ -58,5 +58,16 @@ https://github.com/Clarice-COD/look-and-feel-corporate-identity/issues/5 clarice
 
 https://github.com/kimnikitaschijf/look-and-feel-corporate-identity/issues/30 kim 
 
+<h2>
+17-12 december</h2>
+
+ik heb clair geholpen met een issue waarin ze wilt dat de gebruiker na het drukken op submit naar een andere pagina gaat
+https://github.com/Clarice-COD/fix-the-flow-interactive-website/issues/6
+
+ik heb clair geholpen met haar animatatie dat de animatie verdwijnt na een aantal seconden
+https://github.com/Clarice-COD/fix-the-flow-interactive-website/issues/5
+
+
+
 
 
