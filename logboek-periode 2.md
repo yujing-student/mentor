@@ -67,6 +67,8 @@ https://github.com/Clarice-COD/fix-the-flow-interactive-website/issues/6
 ik heb clair geholpen met haar animatatie dat de animatie verdwijnt na een aantal seconden
 https://github.com/Clarice-COD/fix-the-flow-interactive-website/issues/5
 
+<h1>6-1</h1>
+ik heb bij iris een issue ingeschoten over wat ze kan doen om al haar indicatoren te halen :https://github.com/irisvw/the-startup-responsive-interactive-website/issues/3
 
 
 
