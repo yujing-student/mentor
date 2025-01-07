@@ -37,26 +37,14 @@ ik heb met mijn mentor studenten gekekn naar hun portflow hoe ze hun herkansing 
 
 ik heb aan clarice vertelt hoe ze met eenn issue goede bewijslast in een issue zet waardoor direct goed te zien is wat ze gedaan heeft en welke methoden en technieken ze gebruikt 
 
-https://github.com/Clarice-COD/look-and-feel-corporate-identity/issues/13
-
-
-
-
-https://github.com/kimnikitaschijf/look-and-feel-corporate-identity/issues/30
-uitleg hoe ik bewijslast goed in portflow zet en hoe je het zou kunnen doen 
-
+grid uitleg [issue](https://github.com/Clarice-COD/look-and-feel-corporate-identity/issues/13) aan clair
  
 
-uitleg over tilde teken
-https://github.com/kimnikitaschijf/look-and-feel-corporate-identity/issues/24 
+[issue](https://github.com/kimnikitaschijf/look-and-feel-corporate-identity/issues/24 ) met uitleg over tilde teken
+
 
 verder heb ik gekeken naar de gedragsindicatoren welke mijn mentorstudenten moeten herkansen en hoe ze dit kunnen aanpakken en wat ze nog missen
 
-https://github.com/OFRqq/i-love-web/issues/1 ole 
-
-https://github.com/Clarice-COD/look-and-feel-corporate-identity/issues/5 clarice 
-
-https://github.com/kimnikitaschijf/look-and-feel-corporate-identity/issues/30 kim 
 
 <h2>
 17-12 december</h2>
@@ -68,7 +56,10 @@ ik heb clair geholpen met haar animatatie dat de animatie verdwijnt na een aanta
 https://github.com/Clarice-COD/fix-the-flow-interactive-website/issues/5
 
 <h1>6-1</h1>
-ik heb bij iris een issue ingeschoten over wat ze kan doen om al haar indicatoren te halen :https://github.com/irisvw/the-startup-responsive-interactive-website/issues/3
+ik heb bij iris een [issue](https://github.com/irisvw/the-startup-responsive-interactive-website/issues/3) ingeschoten over wat ze kan doen om al haar indicatoren te halen zodat ze niet niet in delaatste week erachter komt dat ze nog bewijs mist 
+
+ook heb ik [issue](https://github.com/irisvw/fix-the-flow-interactive-website/issues/6) ingeschoten met een stagelijst zodat ze weet waar ze kan solliciteren voor een stage en ik heb mijn ervaring gedeeld met wat tips
+
 
 
 
