@@ -43,20 +43,22 @@ grid uitleg [issue](https://github.com/Clarice-COD/look-and-feel-corporate-ident
 [issue](https://github.com/kimnikitaschijf/look-and-feel-corporate-identity/issues/24 ) met uitleg over tilde teken
 
 
-verder heb ik gekeken naar de gedragsindicatoren welke mijn mentorstudenten moeten herkansen en hoe ze dit kunnen aanpakken en wat ze nog missen
+
 
 
 <h2>
 17-12 december</h2>
 
-ik heb clair geholpen met een issue waarin ze wilt dat de gebruiker na het drukken op submit naar een andere pagina gaat
+ik heb clair geholpen met een javascript issue waarin ze wilt dat de gebruiker na het drukken op submit naar een andere pagina gaat
 https://github.com/Clarice-COD/fix-the-flow-interactive-website/issues/6
 
-ik heb clair geholpen met haar animatatie dat de animatie verdwijnt na een aantal seconden
+ik heb clair geholpen met haar javascript animatatie dat de animatie verdwijnt na een aantal seconden
 https://github.com/Clarice-COD/fix-the-flow-interactive-website/issues/5
 
 <h1>6-1</h1>
-ik heb bij iris een [issue](https://github.com/irisvw/the-startup-responsive-interactive-website/issues/3) ingeschoten over wat ze kan doen om al haar indicatoren te halen zodat ze niet niet in delaatste week erachter komt dat ze nog bewijs mist 
+ik heb bij iris een <a href="https://github.com/irisvw/the-startup-responsive-interactive-website/issues/3">issue</a> ingeschoten over wat ze kan doen om al haar indicatoren te halen zodat ze niet niet in delaatste week erachter komt dat ze nog bewijs mist 
+
+<br>
 
 ook heb ik [issue](https://github.com/irisvw/fix-the-flow-interactive-website/issues/6) ingeschoten met een stagelijst zodat ze weet waar ze kan solliciteren voor een stage en ik heb mijn ervaring gedeeld met wat tips
 
