@@ -63,6 +63,6 @@ ik heb bij iris een <a href="https://github.com/irisvw/the-startup-responsive-in
 ook heb ik [issue](https://github.com/irisvw/fix-the-flow-interactive-website/issues/6) ingeschoten met een stagelijst zodat ze weet waar ze kan solliciteren voor een stage en ik heb mijn ervaring gedeeld met wat tips
 
 
-
+https://github.com/kimnikitaschijf/the-startup-responsive-interactive-website/issues/6 deze issue over id specificy css
 
 
