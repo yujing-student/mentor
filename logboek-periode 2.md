@@ -65,4 +65,6 @@ ook heb ik [issue](https://github.com/irisvw/fix-the-flow-interactive-website/is
 
 https://github.com/kimnikitaschijf/the-startup-responsive-interactive-website/issues/6 deze issue over id specificy css
 
+https://github.com/kimnikitaschijf/the-startup-responsive-interactive-website/issues/7 deze issue ging over dat ze een h2 mist in een section en dat het handig is om haar html te valideren zodat ze op tijd fouten ziet
+
 
