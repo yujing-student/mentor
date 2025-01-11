@@ -33,7 +33,7 @@ ik heb met mijn mentor studenten gekekn naar hun portflow hoe ze hun herkansing 
 
 
 <h2>
-4-12 november</h2>
+4-12 december</h2>
 
 ik heb aan clarice vertelt hoe ze met eenn issue goede bewijslast in een issue zet waardoor direct goed te zien is wat ze gedaan heeft en welke methoden en technieken ze gebruikt 
 
@@ -55,7 +55,7 @@ https://github.com/Clarice-COD/fix-the-flow-interactive-website/issues/6
 ik heb clair geholpen met haar javascript animatatie dat de animatie verdwijnt na een aantal seconden
 https://github.com/Clarice-COD/fix-the-flow-interactive-website/issues/5
 
-<h1>6-1</h1>
+<h1>6-1 janauri </h1>
 ik heb bij iris een <a href="https://github.com/irisvw/the-startup-responsive-interactive-website/issues/3">issue</a> ingeschoten over wat ze kan doen om al haar indicatoren te halen zodat ze niet niet in delaatste week erachter komt dat ze nog bewijs mist 
 
 <br>
@@ -63,7 +63,7 @@ ik heb bij iris een <a href="https://github.com/irisvw/the-startup-responsive-in
 ook heb ik [issue](https://github.com/irisvw/fix-the-flow-interactive-website/issues/6) ingeschoten met een stagelijst zodat ze weet waar ze kan solliciteren voor een stage en ik heb mijn ervaring gedeeld met wat tips
 
 
-<h1>9-1</h1>
+<h1>9-1 januari </h1>
 
 https://github.com/kimnikitaschijf/the-startup-responsive-interactive-website/issues/6 deze issue over id specificy css
 
