@@ -68,34 +68,3 @@ uitleg grid
 </section>
 
 
-<h2>
-15-11 november</h2>
-<p>
-ik heb issues ingeschoten 
-<ul>
-<li>
-<a href="https://github.com/Matthijs217/look-and-feel-styleguide/issues/8">issue</a>
-
-</li>
-</ul>
-
-https://github.com/kimnikitaschijf/look-and-feel-styleguide/issues/10
-https://github.com/Kitkatisvibing/look-and-feel-styleguide/issues/7
-
-https://github.com/Kitkatisvibing/look-and-feel-styleguide/issues/5
-
-
-
-github
-
-https://github.com/OFRqq/i-love-web/issues/1 
-
-
-<h2>
-25-11 november</h2>
-
-ik heb met mijn mentor studenten gekekn naar hun portflow 
-
-https://github.com/kimnikitaschijf/look-and-feel-corporate-identity/issues/30
-
-https://github.com/Clarice-COD/look-and-feel-corporate-identity/issues/5
