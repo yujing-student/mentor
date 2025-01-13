@@ -63,10 +63,17 @@ ik heb bij iris een <a href="https://github.com/irisvw/the-startup-responsive-in
 ook heb ik [issue](https://github.com/irisvw/fix-the-flow-interactive-website/issues/6) ingeschoten met een stagelijst zodat ze weet waar ze kan solliciteren voor een stage en ik heb mijn ervaring gedeeld met wat tips
 
 
-<h1>9-1 januari </h1>
+<h2>9-1 januari </h2>
 
 https://github.com/kimnikitaschijf/the-startup-responsive-interactive-website/issues/6 deze issue over id specificy css
 
 https://github.com/kimnikitaschijf/the-startup-responsive-interactive-website/issues/7 deze issue ging over dat ze een h2 mist in een section en dat het handig is om haar html te valideren zodat ze op tijd fouten ziet
 
-https://github.com/Clarice-COD/the-startup-responsive-interactive-website/issues/6 feedback wireflow
+https://github.com/Clarice-COD/the-startup-responsive-interactive-website/issues/6 feedback wireflow voor clarice
+
+
+<h2>13-1 januari </h2>
+
+ik heb bij ole 3 issues ingeschoten over code en 1 lange met tips over prjectmanagment hoe je ervoor kan zorgen dat je overzicht houd met je issues en realistische doelen stelt 
+
+https://github.com/OFRqq/the-startup-responsive-interactive-website/issues/created_by/yujing-student
